@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Pallavisingh2002
 - 👀 I’m interested in front end developers
+-     Im currently learning about reactapp
 - 🌱 ask me about data structures and algorithms
 - 💞️ I’m looking to collaborate on web developers
 - 📫 How to reach me pallavisingh@gmail.com
